@@ -1,0 +1,2 @@
+2024-02-17 12:03:17 INFO Test1: API start loging
+2024-02-17 12:03:18 INFO Test2: API Create post
